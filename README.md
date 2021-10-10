@@ -1,5 +1,5 @@
 # TicTacToe
-[Live Demo](https://silly-torvalds-4cdfa3.netlify.app)
+[Live Demo](https://serene-ritchie-faeea2.netlify.app)
 ## Description
 * Developed a simple tictactoe game.
 ## Tech-stack
